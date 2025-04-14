@@ -10,6 +10,7 @@ acabo de terminar un Bootcamp como analista de datos en Tripleten; y cuento con 
 Aqui vas a encontrar diferentes repositorios de mis proyectos técnicos en mi formación; desarrollo básico, intermedio y avanzado como analista de datos.
 
 Lenguajes y herramientas:
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 Python (+ librerías), Lenguaje de consulta estructurado -SQL (API - HTML - Recuperación de recursos online - JSON) |
 | Automatización de procesamiento de datos (DASH - HTML - TABLEAU) | Métricas de Negocio - Pruebas de hipótesis A/B
 | Conceptos básicos de aprendizaje automático (Scikit - learn)
