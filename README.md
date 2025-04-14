@@ -3,7 +3,7 @@
 <!--
 **andra96silva/andra96silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# <img src="https://media.istockphoto.com/id/1867035079/photo/analytics-and-data-management-systems-business-analytics-and-data-management-systems-to-make.jpg?s=1024x1024&w=is&k=20&c=RWqxFf_SHjF8KXgIMUeBtG4QAgW88_7rrhH8i_yuYnw=" alt="Analista de datos">
+# <img src="https://www.canva.com/design/DAGkp0TNwCk/l3M84ZmVDgZrqDpx4zoncg/edit?utm_content=DAGkp0TNwCk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Analista de datos">
 ## Andrea Lizeth Díaz Silva 👋
 Data Analysis 💻
 ## Acerca de mí
