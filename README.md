@@ -10,7 +10,6 @@ acabo de terminar un Bootcamp como analista de datos en Tripleten; y cuento con 
 Aqui vas a encontrar diferentes repositorios de mis proyectos técnicos en mi formación; desarrollo básico, intermedio y avanzado como analista de datos.
 
 Lenguajes y herramientas:</br>
-![python](img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</br>
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)</br>
 ![API](https://img.shields.io/badge/API-3776AB?style=for-the-badge&logo=api&logoColor=white)</br>
@@ -19,11 +18,9 @@ Lenguajes y herramientas:</br>
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)</br>
 
 
- Lenguaje de consulta estructurado -SQL (API - HTML - Recuperación de recursos online - JSON) |
-| Automatización de procesamiento de datos (DASH - HTML - TABLEAU) | Métricas de Negocio - Pruebas de hipótesis A/B
-| Conceptos básicos de aprendizaje automático (Scikit - learn)
 
+Donde pueden contactarme:</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/andrea-lizeth-díaz-silva-b59834333)</br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andrea96silvald@gmail.com)</br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silvaandreina1005@gmail.com)</br>
 
-Donde pueden contactarme:
-linkedin: www.linkedin.com/in/andrea-lizeth-díaz-silva-b59834333
-e_mail: andrea96silvald@gmail.com; silvaandreina1005@gmail.com
