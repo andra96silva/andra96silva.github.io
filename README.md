@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**andra96silva/andra96silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**andra96silva/andra96silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 
