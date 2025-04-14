@@ -3,7 +3,7 @@
 <!--
 **andra96silva/andra96silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# <img src="https://www.canva.com/design/DAGkp0TNwCk/l3M84ZmVDgZrqDpx4zoncg/edit?utm_content=DAGkp0TNwCk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Analista de datos">
+# <img src="https://www.canva.com/design/DAGkp3o6p1I/wh-KmX9Ci5OWTM6hWaOYBA/edit?utm_content=DAGkp3o6p1I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Analista de datos">
 ## Andrea Lizeth Díaz Silva 👋
 Data Analysis 💻
 ## Acerca de mí
