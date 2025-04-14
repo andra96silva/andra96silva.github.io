@@ -5,6 +5,16 @@
 
 
 
-Hola, es un gusto saludarte; soy Andrea Lizeth Díaz Silva; y te invitamos a que me sigas en mi perfil de Linkedin ( www.linkedin.com/in/andrea-lizeth-díaz-silva-b59834333 ) y por supuesto Github; 
+Hola, es un gusto saludarte; soy Andrea Lizeth Díaz Silva;
 acabo de terminar un Bootcamp como analista de datos en Tripleten; y cuento con una experiencia importante en servicio al cliente (específicamente en ventas). 
-Aqui vas a encontrar diferentes repositorios de mis proyectos técnicos en mi formación; desarrollo básico, intermedio y avanzado como analista de datos; Basado en mi experiencia formativa en lenguajes de programación y visualización como Python, SQL y Dashboard.
+Aqui vas a encontrar diferentes repositorios de mis proyectos técnicos en mi formación; desarrollo básico, intermedio y avanzado como analista de datos.
+
+Lenguajes y herramientas:
+Python (+ librerías), Lenguaje de consulta estructurado -SQL (API - HTML - Recuperación de recursos online - JSON) |
+| Automatización de procesamiento de datos (DASH - HTML - TABLEAU) | Métricas de Negocio - Pruebas de hipótesis A/B
+| Conceptos básicos de aprendizaje automático (Scikit - learn)
+
+
+Donde pueden contactarme:
+linkedin: www.linkedin.com/in/andrea-lizeth-díaz-silva-b59834333
+e_mail: andrea96silvald@gmail.com; silvaandreina1005@gmail.com
