@@ -7,7 +7,14 @@
 ## Andrea Lizeth Díaz Silva 👋
 Data Analysis 💻
 ## Acerca de mí
-Hola, es un gusto saludarte; soy Andrea Lizeth Díaz Silva; acabo de terminar un Bootcamp como analista de datos en Tripleten; y cuento con una experiencia importante en servicio al cliente (específicamente en ventas). Aqui vas a encontrar diferentes repositorios de mis proyectos técnicos en mi formación; desarrollo básico, intermedio y avanzado como analista de datos 📊.
+¡Hola! Soy Andrea Lizeth Diaz Silva,es un gusto saludarte 🙂; acabo de terminar un bootcamp como analista de datos 👩‍🎓, con una sólida experiencia en ventas y atención al cliente en el sector automotriz 🚗.
+
+Después de varios años trabajando como asesora de ventas 👜 en repuestos, serviteca, cámaras de aire y neumáticos para todo tipo de vehículos, decidí dar un paso más en mi carrera y formarme como analista de datos en TripleTen. Esta decisión me permitió combinar mi experiencia práctica con nuevas habilidades técnicas como Python, SQL, HTML, API, Dashboard, JSON; aplicadas en proyectos reales enfocados en resolver problemas mediante el análisis y visualización de datos 📊.
+
+Soy una persona orientada a los resultados📈, con mentalidad analítica y mucha curiosidad. Me apasiona encontrar patrones, contar historias con datos y proponer soluciones que generen valor💲. En este portafolio encontrarás algunos de los proyectos que reflejan cómo aplico la lógica del análisis a situaciones del mundo real.
+
+Estoy abierta/o a nuevas oportunidades en las que pueda seguir aprendiendo, aportando y creciendo en el mundo del análisis de datos 📊.
+
 ## Lenguajes y herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 💻
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white) 📊
