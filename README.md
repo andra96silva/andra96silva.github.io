@@ -13,7 +13,7 @@ Después de varios años trabajando como asesora de ventas 👜 en repuestos, se
 
 Soy una persona orientada a los resultados📈, con mentalidad analítica y mucha curiosidad. Me apasiona encontrar patrones, contar historias con datos y proponer soluciones que generen valor💲. En este portafolio encontrarás algunos de los proyectos que reflejan cómo aplico la lógica del análisis a situaciones del mundo real.
 
-Estoy abierta/o a nuevas oportunidades en las que pueda seguir aprendiendo, aportando y creciendo en el mundo del análisis de datos 📊.
+Estoy abierto a nuevas oportunidades en las que pueda seguir aprendiendo, aportando y creciendo en el mundo del análisis de datos 📊.
 
 ## Lenguajes y herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 💻
