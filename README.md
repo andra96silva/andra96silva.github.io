@@ -34,6 +34,18 @@ Estoy abierto a nuevas oportunidades en las que pueda seguir aprendiendo, aporta
 ## Manipulaión de datos 
 En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas.
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Manipulación de datos</title>
+</head>
+<body>
+  <h1>Manipulación de datos</h1>
+  <p>En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas.</p>
+  <img src="imagen-del-proyecto.jpg" alt="Imagen del proyecto">
+</body>
+</html>
+
 
 
 
