@@ -6,6 +6,7 @@
 # <img src="WhatsApp Image 2025-04-14 at 7.02.01 PM.jpeg" alt="Analista de datos">
 ## Andrea Lizeth Díaz Silva 👋
 Data Analysis 💻
+## Bienvenido a mi Portafolio
 ## Acerca de mí
 ¡Hola! Soy Andrea Lizeth Diaz Silva,es un gusto saludarte 🙂; acabo de terminar un bootcamp como analista de datos 👩‍🎓, con una sólida experiencia en ventas y atención al cliente en el sector automotriz 🚗.
 
@@ -26,6 +27,10 @@ Estoy abierto a nuevas oportunidades en las que pueda seguir aprendiendo, aporta
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-lizeth-díaz-silva-b59834333) 👋
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea96silvald@gmail.com) 📧
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvaandreina1005@gmail.com) 📧
+
+
+
+## Manipulación De Datos 
 
 
 
