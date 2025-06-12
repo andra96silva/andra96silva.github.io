@@ -16,23 +16,12 @@ Soy una persona orientada a los resultados📈, con mentalidad analítica y much
 
 Estoy abierto a nuevas oportunidades en las que pueda seguir aprendiendo, aportando y creciendo en el mundo del análisis de datos 📊.
 
-## Lenguajes y herramientas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 💻
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white) 📊
-![API](https://img.shields.io/badge/API-3776AB?style=for-the-badge&logo=api&logoColor=white) 💡
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 📈
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white) 📊
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) 💻
-## Donde puedes contactarme
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-lizeth-díaz-silva-b59834333) 👋
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea96silvald@gmail.com) 📧
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvaandreina1005@gmail.com) 📧
+
 
 
 
 ## contenido de portafolio:
-## Manipulaión de datos 
-En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas.
+
 
 <!DOCTYPE html>
 <html>
@@ -69,5 +58,17 @@ El proyecto consistió en el procesamiento y análisis de una base de datos comp
 </html>
 
 
+
+## Lenguajes y herramientas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 💻
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white) 📊
+![API](https://img.shields.io/badge/API-3776AB?style=for-the-badge&logo=api&logoColor=white) 💡
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 📈
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white) 📊
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) 💻
+## Donde puedes contactarme
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-lizeth-díaz-silva-b59834333) 👋
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea96silvald@gmail.com) 📧
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvaandreina1005@gmail.com) 📧
 
 
