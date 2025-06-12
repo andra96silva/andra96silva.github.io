@@ -56,7 +56,8 @@ En este proyecto, trabjaremos con datos reales de transmisión de musica online 
 Análisis de Datos de Viajes Compartidos para Zuber</title>
 </head>
 <body>
-  <h1>Proyecto con Video</h1>
+  <h1>Recopilación y Almacenamiento de Datos (SQL)
+Análisis de Datos de Viajes Compartidos para Zuber</h1>
   <p>En este proyecto, utilicé técnicas avanzadas de análisis de datos, incluyendo Análisis Exploratorio de Datos (EDA) y Pruebas de Hipótesis, para explorar y comprender los patrones de comportamiento de los usuarios de Zuber, una nueva plataforma de viajes compartidos en Chicago. El objetivo principal fue identificar factores clave que influyen en la demanda de viajes y cómo factores externos, como el clima, impactan en la frecuencia de los viajes.
 
 El proyecto consistió en el procesamiento y análisis de una base de datos compleja que contenía información sobre viajes (hora, ubicación, tarifa, duración) y datos climáticos históricos (temperatura, precipitaciones, entre otros). A través de consultas SQL y Python, extraje, limpié y estructuré los datos necesarios para realizar un análisis exploratorio de las tendencias en los viajes y sus correlaciones con variables externas</p>
