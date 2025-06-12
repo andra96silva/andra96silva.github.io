@@ -41,8 +41,6 @@ Estoy abierto a nuevas oportunidades en las que pueda seguir aprendiendo, aporta
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Recopilación y Almacenamiento de Datos (SQL)
-Análisis de Datos de Viajes Compartidos para Zuber</title>
 </head>
 <body>
   <h1>Recopilación y Almacenamiento de Datos (SQL)
