@@ -26,7 +26,7 @@ Estoy abierto a nuevas oportunidades en las que pueda seguir aprendiendo, aporta
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Manipulación de datos</title>
+
 </head>
 <body>
   <h1>Manipulación de datos</h1>
