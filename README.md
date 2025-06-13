@@ -46,7 +46,20 @@ El proyecto consistió en el procesamiento y análisis de una base de datos comp
   <!-- Repite el patrón para los demás proyectos -->
 </div>
 
-
+<div style="display: flex; justify-content: space-around;">
+  <div style="width: 30%;">
+    <h2>Columna 1</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+  </div>
+  <div style="width: 30%;">
+    <h2>Columna 2</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+  </div>
+  <div style="width: 30%;">
+    <h2>Columna 3</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+  </div>
+</div>
 
 
 
