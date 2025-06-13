@@ -37,7 +37,7 @@ El proyecto consistió en el procesamiento y análisis de una base de datos comp
   </video>
   </div>
   <div style="width: 100%;">
-    <h2 style="color:#ff0000;/*Rojo*/; text-align: center;">Optimización de gastos de marketing para Showz</h2>
+    <h2 style="color:blue; text-align: center;">Optimización de gastos de marketing para Showz</h2>
     <p style="text-align: justify;">Como parte de mi formación en análisis de datos en TripleTen, fui seleccionado para realizar prácticas en el departamento de analítica de Showz, una empresa dedicada a la venta de entradas para eventos. Mi primera tarea consistió en analizar los datos históricos con el objetivo de optimizar los gastos de marketing.
 
 Objetivo del proyecto:
