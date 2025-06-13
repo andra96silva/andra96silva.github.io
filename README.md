@@ -17,21 +17,12 @@ Soy una persona orientada a los resultados📈, con mentalidad analítica y much
 Estoy abierto a nuevas oportunidades en las que pueda seguir aprendiendo, aportando y creciendo en el mundo del análisis de datos 📊.
 
 
-
-
-
 ## Contenido de Portafolio:
-
-
-
-
-
-
 
 <div style="display: flex; justify-content: space-around;">
   <div style="width: 30%;">
-    <h2>Manipulación de Datos</h2>
-    <p>En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas.</p>
+    <h2 style="text-align: center; color:Manipulación de Datos</h2>
+    <p style="font-family: Arial, sans-serif;"> En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas.</p>
      <img src="imagen-del-proyecto.jpg" alt="Imagen del proyecto">
   </div>
   <div style="width: 30%;">
@@ -46,10 +37,8 @@ El proyecto consistió en el procesamiento y análisis de una base de datos comp
   </video>
   </div>
   <div style="width: 30%;">
-    <h2>Columna 3</h2>
-    <p>Optimización de gastos de marketing para Showz
-Descripción del proyecto:
-Como parte de mi formación en análisis de datos en TripleTen, fui seleccionado para realizar prácticas en el departamento de analítica de Showz, una empresa dedicada a la venta de entradas para eventos. Mi primera tarea consistió en analizar los datos históricos con el objetivo de optimizar los gastos de marketing.
+    <h2>Optimización de gastos de marketing para Showz</h2>
+    <p>Como parte de mi formación en análisis de datos en TripleTen, fui seleccionado para realizar prácticas en el departamento de analítica de Showz, una empresa dedicada a la venta de entradas para eventos. Mi primera tarea consistió en analizar los datos históricos con el objetivo de optimizar los gastos de marketing.
 
 Objetivo del proyecto:
 Investigar el comportamiento de los usuarios y su impacto financiero en la compañía, para ayudar a tomar decisiones estratégicas más informadas sobre inversión en marketing.
