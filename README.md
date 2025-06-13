@@ -47,7 +47,32 @@ El proyecto consistió en el procesamiento y análisis de una base de datos comp
   </div>
   <div style="width: 30%;">
     <h2>Columna 3</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+    <p>Optimización de gastos de marketing para Showz
+Descripción del proyecto:
+Como parte de mi formación en análisis de datos en TripleTen, fui seleccionado para realizar prácticas en el departamento de analítica de Showz, una empresa dedicada a la venta de entradas para eventos. Mi primera tarea consistió en analizar los datos históricos con el objetivo de optimizar los gastos de marketing.
+
+Objetivo del proyecto:
+Investigar el comportamiento de los usuarios y su impacto financiero en la compañía, para ayudar a tomar decisiones estratégicas más informadas sobre inversión en marketing.
+
+Datos utilizados:
+
+Registros del servidor con información sobre las visitas al sitio web de Showz (enero 2017 – diciembre 2018).
+
+Datos de pedidos realizados en el mismo período.
+
+Estadísticas detalladas de los gastos de marketing.
+
+Preguntas clave analizadas:
+
+¿Cómo utilizan los clientes el servicio?
+
+¿Cuándo comienzan a realizar compras?
+
+¿Cuánto dinero aporta cada cliente a la empresa?
+
+¿En qué momento los ingresos generados por cliente cubren el costo de adquisición?
+
+Este proyecto me permitió aplicar técnicas de análisis exploratorio, cohortes, segmentación de usuarios y cálculo del Customer Lifetime Value (CLV), además de presentar recomendaciones basadas en datos para mejorar la eficiencia del gasto en marketing; Aqui te dejo un link de acceso directo a mi proyecto para que leeches un vistazo</p>
   </div>
 </div>
 
