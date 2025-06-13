@@ -25,10 +25,10 @@ Estoy abierto a nuevas oportunidades en las que pueda seguir aprendiendo, aporta
     <p style="text-align: justify;"> En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas.</p>
      <img src="imagen-del-proyecto.jpg" alt="Imagen del proyecto">
   </div>
-  <div style="width: 30%;">
-    <h2>Recopilación y Almacenamiento de Datos (SQL)
+  <div style="width: 100%;">
+    <h2 style="color:#3498db;">Recopilación y Almacenamiento de Datos (SQL)
 Análisis de Datos de Viajes Compartidos para Zuber</h2>
-    <p>En este proyecto, utilicé técnicas avanzadas de análisis de datos, incluyendo Análisis Exploratorio de Datos (EDA) y Pruebas de Hipótesis, para explorar y comprender los patrones de comportamiento de los usuarios de Zuber, una nueva plataforma de viajes compartidos en Chicago. El objetivo principal fue identificar factores clave que influyen en la demanda de viajes y cómo factores externos, como el clima, impactan en la frecuencia de los viajes.
+    <p style="text-align: justify;">En este proyecto, utilicé técnicas avanzadas de análisis de datos, incluyendo Análisis Exploratorio de Datos (EDA) y Pruebas de Hipótesis, para explorar y comprender los patrones de comportamiento de los usuarios de Zuber, una nueva plataforma de viajes compartidos en Chicago. El objetivo principal fue identificar factores clave que influyen en la demanda de viajes y cómo factores externos, como el clima, impactan en la frecuencia de los viajes.
 
 El proyecto consistió en el procesamiento y análisis de una base de datos compleja que contenía información sobre viajes (hora, ubicación, tarifa, duración) y datos climáticos históricos (temperatura, precipitaciones, entre otros). A través de consultas SQL y Python, extraje, limpié y estructuré los datos necesarios para realizar un análisis exploratorio de las tendencias en los viajes y sus correlaciones con variables externas</p>
 <video width="640" height="480" controls>
@@ -36,30 +36,12 @@ El proyecto consistió en el procesamiento y análisis de una base de datos comp
     Tu navegador no soporta la etiqueta de video.
   </video>
   </div>
-  <div style="width: 30%;">
-    <h2>Optimización de gastos de marketing para Showz</h2>
-    <p>Como parte de mi formación en análisis de datos en TripleTen, fui seleccionado para realizar prácticas en el departamento de analítica de Showz, una empresa dedicada a la venta de entradas para eventos. Mi primera tarea consistió en analizar los datos históricos con el objetivo de optimizar los gastos de marketing.
+  <div style="width: 100%;">
+    <h2 style="color:#3498db;">Optimización de gastos de marketing para Showz</h2>
+    <p style="text-align: justify;">Como parte de mi formación en análisis de datos en TripleTen, fui seleccionado para realizar prácticas en el departamento de analítica de Showz, una empresa dedicada a la venta de entradas para eventos. Mi primera tarea consistió en analizar los datos históricos con el objetivo de optimizar los gastos de marketing.
 
 Objetivo del proyecto:
 Investigar el comportamiento de los usuarios y su impacto financiero en la compañía, para ayudar a tomar decisiones estratégicas más informadas sobre inversión en marketing.
-
-Datos utilizados:
-
-Registros del servidor con información sobre las visitas al sitio web de Showz (enero 2017 – diciembre 2018).
-
-Datos de pedidos realizados en el mismo período.
-
-Estadísticas detalladas de los gastos de marketing.
-
-Preguntas clave analizadas:
-
-¿Cómo utilizan los clientes el servicio?
-
-¿Cuándo comienzan a realizar compras?
-
-¿Cuánto dinero aporta cada cliente a la empresa?
-
-¿En qué momento los ingresos generados por cliente cubren el costo de adquisición?
 
 Este proyecto me permitió aplicar técnicas de análisis exploratorio, cohortes, segmentación de usuarios y cálculo del Customer Lifetime Value (CLV), además de presentar recomendaciones basadas en datos para mejorar la eficiencia del gasto en marketing; Aqui te dejo un link de acceso directo a mi proyecto para que leeches un vistazo</p>
   </div>
