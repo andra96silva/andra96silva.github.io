@@ -22,64 +22,21 @@ Estoy abierto a nuevas oportunidades en las que pueda seguir aprendiendo, aporta
 
 ## Contenido de Portafolio:
 
-DOCTYPE html>
-<html>
-<head>
-  <title>Proyectos</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f2f2f2;
-    }
-    
-    .contenedor {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-    }
-    
-    .columna {
-      width: 30%;
-      margin: 20px;
-      background-color: #fff;
-      padding: 20px;
-      border: 1px solid #ddd;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-    
-    .columna h2 {
-      font-size: 24px;
-      font-weight: bold;
-      margin-bottom: 10px;
-      text-align: center;
-    }
-    
-    .columna p {
-      font-size: 18px;
-      color: #666;
-      text-align: justify;
-    }
-  </style>
-</head>
-<body>
-  <div class="contenedor">
-    <div class="columna">
-      <h2>Proyecto 1</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-    </div>
-    <div class="columna">
-      <h2>Proyecto 2</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-    </div>
-    <div class="columna">
-      <h2>Proyecto 3</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-    </div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <div style="width: 30%; background-color:                                                                       
+    <h2>Manipulación de Datos</h2>
+    <p>En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas.</p>
   </div>
-</body>
-</html>
-
+  <div style="width: 30%; background-color: #f2f2f2; padding: 20px; border: 1px solid #ddd; margin-bottom: 20px;">
+    <h2>Proyecto 2</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  </div>
+  <div style="width: 30%; background-color: #f2f2f2; padding: 20px; border: 1px solid #ddd; margin-bottom: 20px;">
+    <h2>Proyecto 3</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  </div>
+  <!-- Repite el patrón para los demás proyectos -->
+</div>
 
 
 
