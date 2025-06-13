@@ -20,40 +20,37 @@ Estoy abierto a nuevas oportunidades en las que pueda seguir aprendiendo, aporta
 
 
 
-## contenido de portafolio:
-
-
-<!DOCTYPE html>
-<html>
-<head>
-
-</head>
-<body>
-  <h1>Manipulación de datos</h1>
-  <p>En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas.</p>
-  <img src="imagen-del-proyecto.jpg" alt="Imagen del proyecto">
-</body>
-</html>
-
-
-
-
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-  <h1>Recopilación y Almacenamiento de Datos (SQL)
-Análisis de Datos de Viajes Compartidos para Zuber</h1>
-  <p>En este proyecto, utilicé técnicas avanzadas de análisis de datos, incluyendo Análisis Exploratorio de Datos (EDA) y Pruebas de Hipótesis, para explorar y comprender los patrones de comportamiento de los usuarios de Zuber, una nueva plataforma de viajes compartidos en Chicago. El objetivo principal fue identificar factores clave que influyen en la demanda de viajes y cómo factores externos, como el clima, impactan en la frecuencia de los viajes.
+## Contenido de Portafolio:
+<div class="contenedor">
+  <div class="columna">
+    <h2>Manipulación de Datos</h2>
+    <p>En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas.</p>
+      <img src="imagen-del-proyecto.jpg" alt="Imagen del proyecto">
+  </div>
+  <div class="columna">
+    <h2>Recopilación y Almacenamiento de Datos (SQL)
+Análisis de Datos de Viajes Compartidos para Zuber</h2>
+    <p>En este proyecto, utilicé técnicas avanzadas de análisis de datos, incluyendo Análisis Exploratorio de Datos (EDA) y Pruebas de Hipótesis, para explorar y comprender los patrones de comportamiento de los usuarios de Zuber, una nueva plataforma de viajes compartidos en Chicago. El objetivo principal fue identificar factores clave que influyen en la demanda de viajes y cómo factores externos, como el clima, impactan en la frecuencia de los viajes.
 
 El proyecto consistió en el procesamiento y análisis de una base de datos compleja que contenía información sobre viajes (hora, ubicación, tarifa, duración) y datos climáticos históricos (temperatura, precipitaciones, entre otros). A través de consultas SQL y Python, extraje, limpié y estructuré los datos necesarios para realizar un análisis exploratorio de las tendencias en los viajes y sus correlaciones con variables externas</p>
-  <video width="640" height="480" controls>
+<video width="640" height="480" controls>
     <source src="https://example.com/video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
   </video>
-</body>
-</html>
+  </div>
+  <div class="columna">
+    <h2>Proyecto 3</h2>
+    <p>Descripción del proyecto 3</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+
 
 
 
