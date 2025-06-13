@@ -22,7 +22,7 @@ Estoy abierto a nuevas oportunidades en las que pueda seguir aprendiendo, aporta
 <div style="display: flex; justify-content: space-around;">
   <div style="width: 100%; text-align: center;">
     <h2 style="color:#3498db;"> Manipulación de Datos</h2>
-    <p style="text-align: justify;"> En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas.</p>
+    <p style="text-align: center;"> En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas.</p>
      <img src="imagen-del-proyecto.jpg" alt="Imagen del proyecto">
   </div>
   <div style="width: 100%;">
