@@ -22,13 +22,19 @@ Estoy abierto a nuevas oportunidades en las que pueda seguir aprendiendo, aporta
 
 ## Contenido de Portafolio:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="width: 30%; background-color:                                                                       
+
+
+
+
+
+
+<div style="display: flex; justify-content: space-around;">
+  <div style="width: 30%;">
     <h2>Manipulación de Datos</h2>
     <p>En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas.</p>
-      <img src="imagen-del-proyecto.jpg" alt="Imagen del proyecto">
+     <img src="imagen-del-proyecto.jpg" alt="Imagen del proyecto">
   </div>
-  <div style="width: 30%; background-color: #f2f2f2; padding: 20px; border: 1px solid #ddd; margin-bottom: 20px;">
+  <div style="width: 30%;">
     <h2>Recopilación y Almacenamiento de Datos (SQL)
 Análisis de Datos de Viajes Compartidos para Zuber</h2>
     <p>En este proyecto, utilicé técnicas avanzadas de análisis de datos, incluyendo Análisis Exploratorio de Datos (EDA) y Pruebas de Hipótesis, para explorar y comprender los patrones de comportamiento de los usuarios de Zuber, una nueva plataforma de viajes compartidos en Chicago. El objetivo principal fue identificar factores clave que influyen en la demanda de viajes y cómo factores externos, como el clima, impactan en la frecuencia de los viajes.
@@ -38,22 +44,6 @@ El proyecto consistió en el procesamiento y análisis de una base de datos comp
     <source src="https://example.com/video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
   </video>
-  </div>
-  <div style="width: 30%; background-color: #f2f2f2; padding: 20px; border: 1px solid #ddd; margin-bottom: 20px;">
-    <h2>Proyecto 3</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-  </div>
-  <!-- Repite el patrón para los demás proyectos -->
-</div>
-
-<div style="display: flex; justify-content: space-around;">
-  <div style="width: 30%;">
-    <h2>Columna 1</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
-  </div>
-  <div style="width: 30%;">
-    <h2>Columna 2</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
   </div>
   <div style="width: 30%;">
     <h2>Columna 3</h2>
