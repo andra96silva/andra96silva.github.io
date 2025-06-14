@@ -44,7 +44,7 @@ Objetivo del proyecto:
 Investigar el comportamiento de los usuarios y su impacto financiero en la compañía, para ayudar a tomar decisiones estratégicas más informadas sobre inversión en marketing.
 
 Este proyecto me permitió aplicar técnicas de análisis exploratorio, cohortes, segmentación de usuarios y cálculo del Customer Lifetime Value (CLV), además de presentar recomendaciones basadas en datos para mejorar la eficiencia del gasto en marketing; Aqui te dejo un link de acceso directo a mi proyecto para que le des un vistazo https://github.com/andra96silva/An-lisis-de-negocio-.git </p>
- <img src="![Uploading image.png…]()">  
+ <img src="https://sl.bing.net/gfXZKo0uKaq">  
 
   </div>
 </div>
