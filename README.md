@@ -22,8 +22,8 @@ Estoy abierto a nuevas oportunidades en las que pueda seguir aprendiendo, aporta
 <div style="display: flex; justify-content: space-around;">
   <div style="width: 100%; text-align: center;">
     <h2 style="color:#3498db;"> Manipulación de Datos</h2>
-    <p style="text-align: justify;color:#333; background-color: #f9f9f9;height:auto; margin: 20px auto;border: 1px solid #ddd; box-shadow: 0 0 10px rgba(0,0,0,0.1);"> En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas. https://tripleten.com/proxy/pierce/trainers/workspace/shares/d7ea73a3-4e8c-461e-8c1c-52b223671cff%3A200003571%3Adata-analyst/archive </p>
-     <img src="imagen-del-proyecto.jpg" alt="Imagen del proyecto">
+    <p style="text-align: justify;color:#333; background-color: #f9f9f9;height:auto; margin: 20px auto;border: 1px solid #ddd; box-shadow: 0 0 10px rgba(0,0,0,0.1);"> En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas. https://www.loom.com/share/45c04fc1ca6041ad93e35da7cd316b35?sid=19f47784-fe4e-4c70-9cf5-d89dc6e0f976 </p>
+    
   </div>
   <div style="width: 80%;">
     <h2 style="color:#3498db;">Recopilación y Almacenamiento de Datos (SQL)
@@ -44,6 +44,7 @@ Objetivo del proyecto:
 Investigar el comportamiento de los usuarios y su impacto financiero en la compañía, para ayudar a tomar decisiones estratégicas más informadas sobre inversión en marketing.
 
 Este proyecto me permitió aplicar técnicas de análisis exploratorio, cohortes, segmentación de usuarios y cálculo del Customer Lifetime Value (CLV), además de presentar recomendaciones basadas en datos para mejorar la eficiencia del gasto en marketing; Aqui te dejo un link de acceso directo a mi proyecto para que leeches un vistazo</p>
+ <img src="imagen-del-proyecto.jpg" alt="Imagen del proyecto">
   </div>
 </div>
 
