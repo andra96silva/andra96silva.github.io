@@ -30,7 +30,7 @@ Estoy abierto a nuevas oportunidades en las que pueda seguir aprendiendo, aporta
 Análisis de Datos de Viajes Compartidos para Zuber</h2>
     <p style="text-align: justify;height:auto; margin: 20px auto;">En este proyecto, utilicé técnicas avanzadas de análisis de datos, incluyendo Análisis Exploratorio de Datos (EDA) y Pruebas de Hipótesis, para explorar y comprender los patrones de comportamiento de los usuarios de Zuber, una nueva plataforma de viajes compartidos en Chicago. El objetivo principal fue identificar factores clave que influyen en la demanda de viajes y cómo factores externos, como el clima, impactan en la frecuencia de los viajes.
 
-El proyecto consistió en el procesamiento y análisis de una base de datos compleja que contenía información sobre viajes (hora, ubicación, tarifa, duración) y datos climáticos históricos (temperatura, precipitaciones, entre otros). A través de consultas SQL y Python, extraje, limpié y estructuré los datos necesarios para realizar un análisis exploratorio de las tendencias en los viajes y sus correlaciones con variables externas</p>
+El proyecto consistió en el procesamiento y análisis de una base de datos compleja que contenía información sobre viajes (hora, ubicación, tarifa, duración) y datos climáticos históricos (temperatura, precipitaciones, entre otros). A través de consultas SQL y Python, extraje, limpié y estructuré los datos necesarios para realizar un análisis exploratorio de las tendencias en los viajes y sus correlaciones con variables externas https://github.com/andra96silva/Recopilaci-n-y-almacenamiento-de-datos-SQL.git https://www.loom.com/share/26c2775bd40645989f71e4f73611b3ad?sid=10d67090-3739-4f89-bcb9-f690376d0f5b </p>
 <video width="640" height="480" controls>
     <source src="https://example.com/video.mp4" type="video/mp4">
     Tu navegador no soporta la etiqueta de video.
@@ -43,7 +43,7 @@ El proyecto consistió en el procesamiento y análisis de una base de datos comp
 Objetivo del proyecto:
 Investigar el comportamiento de los usuarios y su impacto financiero en la compañía, para ayudar a tomar decisiones estratégicas más informadas sobre inversión en marketing.
 
-Este proyecto me permitió aplicar técnicas de análisis exploratorio, cohortes, segmentación de usuarios y cálculo del Customer Lifetime Value (CLV), además de presentar recomendaciones basadas en datos para mejorar la eficiencia del gasto en marketing; Aqui te dejo un link de acceso directo a mi proyecto para que leeches un vistazo</p>
+Este proyecto me permitió aplicar técnicas de análisis exploratorio, cohortes, segmentación de usuarios y cálculo del Customer Lifetime Value (CLV), además de presentar recomendaciones basadas en datos para mejorar la eficiencia del gasto en marketing; Aqui te dejo un link de acceso directo a mi proyecto para que leeches un vistazo </p>
  <img src="imagen-del-proyecto.jpg" alt="Imagen del proyecto">
   </div>
 </div>
