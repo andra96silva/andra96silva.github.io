@@ -73,3 +73,107 @@ Este proyecto me permitió aplicar técnicas de análisis exploratorio, cohortes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-lizeth-díaz-silva-b59834333) 👋
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea96silvald@gmail.com) 📧
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvaandreina1005@gmail.com) 📧
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Portafolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Nunito', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f5f7fa;
+            color: #333;
+        }
+        header {
+            background: #4a90e2;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+        section {
+            max-width: 900px;
+            margin: auto;
+            padding: 2rem;
+        }
+        .proyectos {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+        .proyecto {
+            background: white;
+            border-radius: 10px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .proyecto h3 {
+            margin-top: 0;
+        }
+        .proyecto a {
+            color: #4a90e2;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            padding: 2rem;
+            background: #eee;
+            font-size: 0.9rem;
+        }
+
+        @media (min-width: 768px) {
+            .proyectos {
+                flex-direction: row;
+            }
+            .proyecto {
+                flex: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>¡Hola! Soy Andrea Lizeth Díaz Silva</h1>
+    <p>Analista de datos, apasionado por los datos y los retos creativos.</p>
+</header>
+
+<section>
+    <h2>Sobre mí</h2>
+    <p>Soy un desarrollador con experiencia en creación de aplicaciones web modernas. Me encanta aprender nuevas tecnologías y aplicar soluciones eficientes a problemas reales. Mi enfoque es siempre práctico y humano, buscando un equilibrio entre funcionalidad y diseño.</p>
+</section>
+
+<section>
+    <h2>Proyectos Destacados</h2>
+    <div class="proyectos">
+        <div class="proyecto">
+            <h3>Proyecto 1: Gestor de Tareas</h3>
+            <p>Una app para organizar tus tareas diarias con prioridad, etiquetas y recordatorios.</p>
+            <a href="https://github.com/tuusuario/proyecto1" target="_blank">Ver en GitHub</a>
+        </div>
+        <div class="proyecto">
+            <h3>Proyecto 2: Clon de Netflix</h3>
+            <p>Interfaz responsive que simula la experiencia de Netflix usando React y Firebase.</p>
+            <a href="https://github.com/tuusuario/proyecto2" target="_blank">Ver en GitHub</a>
+        </div>
+        <div class="proyecto">
+            <h3>Proyecto 3: Portafolio Personal</h3>
+            <p>Este mismo portafolio alojado en GitHub Pages, construido con HTML, CSS y un toque personal.</p>
+            <a href="https://github.com/tuusuario/proyecto3" target="_blank">Ver en GitHub</a>
+        </div>
+    </div>
+</section>
+
+<footer>
+    © 2025 - Andrea silva | Hecho con 💙 y café
+</footer>
+
+</body>
+</html>
