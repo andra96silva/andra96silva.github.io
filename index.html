@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Portafolio de Andrea Silva</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Montserrat', sans-serif;
+      background-color: #f7f9fb;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    header {
+      background: linear-gradient(to right, #2c3e50, #34495e);
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 1.2em;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    h2 {
+      color: #2c3e50;
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+
+    section {
+      margin-bottom: 60px;
+    }
+
+    .project-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+    }
+
+    .project-card {
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      padding: 20px;
+      transition: transform 0.2s ease;
+    }
+
+    .project-card:hover {
+      transform: translateY(-5px);
+    }
+
+    .project-card h3 {
+      margin-bottom: 10px;
+      color: #2c3e50;
+    }
+
+    .project-card p {
+      font-size: 0.95em;
+    }
+
+    .tech {
+      font-style: italic;
+      color: #555;
+      margin: 10px 0;
+    }
+
+    .btn {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 16px;
+      background-color: #2c3e50;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      transition: background 0.3s ease;
+    }
+
+    .btn:hover {
+      background-color: #1a242f;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px 20px;
+      font-size: 0.9em;
+      color: #888;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2em;
+      }
+
+      .container {
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>¡Hola! Soy Andrea Diaz Silva</h1>
+    <p>Asesora de ventas en el sector automotriz | Analista de Datos</p>
+  </header>
+
+  <div class="container">
+    <section>
+      <h2>Sobre mí</h2>
+      <p>
+        Hola, soy Andrea Lizeth Díaz Silva, asesora de ventas especializada en el sector automotriz con una sólida trayectoria impulsando el crecimiento comercial y la satisfacción del cliente. Recientemente amplié mi perfil profesional al completar un bootcamp como Analista de Datos, lo que me ha permitido integrar herramientas de análisis, visualización y estrategia basada en datos para optimizar procesos de venta, detectar oportunidades de mercado y tomar decisiones más informadas.
+
+Mi mayor fortaleza es combinar la experiencia práctica en ventas con una mirada analítica y digital, aportando soluciones concretas que mejoran tanto la experiencia del cliente como los resultados del negocio.
+
+🚗 + 📊 = Estrategia comercial basada en datos
+Estoy lista para aportar valor en entornos donde se crucen la inteligencia comercial, la tecnología y la innovación
+      </p>
+    </section>
+
+    <section>
+      <h2>Mis Proyectos</h2>
+      <div class="project-grid">
+
+        <div class="project-card">
+          <h3>📈 Manipulación de Datos</h3>
+          <p>En este proyecto, trabjaremos con datos reales de transmisión de musica online para explorar y procesar información sobre los hábitos de escucha de los usuarios y las usuarias en dos ciudades: Sprinfield y Shelbyville. Nuestro objetivo es identificar patrones y tendencias musicales entre estas dos ciudades y comparar los resultados para determinar si existen diferencias significativas entre ellas.</p>
+          <p class="tech">Python, Pandas, Matplotlib, Jupyter</p>
+          <a href="https://github.com/andra96silva/Manipulaci-n-de-datos-.git" class="btn" target="_blank">Ver Proyecto</a>
+        </div>
+
+        <div class="project-card">
+          <h3>📊 Recopilación y Almacenamiento de Datos (SQL)
+Análisis de Datos de Viajes Compartidos para Zuber</h3>
+          <p>En este proyecto, utilicé técnicas avanzadas de análisis de datos, incluyendo Análisis Exploratorio de Datos (EDA) y Pruebas de Hipótesis, para explorar y comprender los patrones de comportamiento de los usuarios de Zuber, una nueva plataforma de viajes compartidos en Chicago. El objetivo principal fue identificar factores clave que influyen en la demanda de viajes y cómo factores externos, como el clima, impactan en la frecuencia de los viajes.
+
+El proyecto consistió en el procesamiento y análisis de una base de datos compleja que contenía información sobre viajes (hora, ubicación, tarifa, duración) y datos climáticos históricos (temperatura, precipitaciones, entre otros). A través de consultas SQL y Python, extraje, limpié y estructuré los datos necesarios para realizar un análisis exploratorio de las tendencias en los viajes y sus correlaciones con variables externas.</p>
+          <p class="tech">python / sql </p>
+          <a href="https://github.com/andra96silva/Recopilaci-n-y-almacenamiento-de-datos-SQL.git" class="btn" target="_blank">Ver Dashboard</a>
+        </div>
+
+        <div class="project-card">
+          <h3>🤖 Optimización de gastos de marketing para Showz</h3>
+          <p>Como parte de mi formación en análisis de datos en TripleTen, fui seleccionado para realizar prácticas en el departamento de analítica de Showz, una empresa dedicada a la venta de entradas para eventos. Mi primera tarea consistió en analizar los datos históricos con el objetivo de optimizar los gastos de marketing.
+
+Objetivo del proyecto:
+Investigar el comportamiento de los usuarios y su impacto financiero en la compañía, para ayudar a tomar decisiones estratégicas más informadas sobre inversión en marketing.
+
+Este proyecto me permitió aplicar técnicas de análisis exploratorio, cohortes, segmentación de usuarios y cálculo del Customer Lifetime Value (CLV), además de presentar recomendaciones basadas en datos para mejorar la eficiencia del gasto en marketing; Aqui te dejo un link de acceso directo a mi proyecto para que le des un vistazo .</p>
+          <p class="tech">Python, Scikit-learn, Pandas</p>
+          <a href="https://github.com/andra96silva/An-lisis-de-negocio-.git" class="btn" target="_blank">Ver Notebook</a>
+        </div>
+
+      </div>
+    </section>
+
+    <section>
+      <h2>¿Qué ofrezco?</h2>
+      <p>
+        Un enfoque comercial respaldado por datos. Ya no vendo solo por intuición: ahora lo hago con información clara, visualizaciones impactantes y un entendimiento profundo del comportamiento del cliente.
+      </p>
+    </section>
+  </div>
+
+  <footer>
+    © Andrea Díaz Silva · Portafolio 2025
+  </footer>
+
+</body>
+</html>
